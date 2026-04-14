@@ -5,7 +5,6 @@ Sistema de streaming desenvolvido para estudo e prática de tecnologias modernas
 ## 🖼️ Imagem de exemplo
 ![Tela inicial do sistema](docs/webrtc.png)
 
-*(Coloque sua imagem em `docs/screenshot.png` ou ajuste o caminho conforme necessário.)*
 
 ## 🚀 Funcionalidades
 - Transmissão de vídeo em tempo real
