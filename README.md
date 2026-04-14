@@ -65,3 +65,16 @@ docker run --rm -it -p 8554:8554 -p 1935:1935 -p 8888:8888  -p 8889:8889 -p 8890
 ```bash
 python run.py
 ```
+
+## Transmita videos com o obs-studio
+Voce configura assim olhe essas imagens.
+![Obs-studio](docs/obs1.png)
+![Obs-studio](docs/obs2.png)
+![Obs-studio](docs/obs3.png)
+![Obs-studio](docs/obs4.png)
+
+## Telas do sistema
+![Sistema_Tela](docs/a1.png)
+![Sistema_Tela](docs/a2.png)
+![Sistema_Tela](docs/a3.png)
+![Sistema_Tela](docs/a4.png)
