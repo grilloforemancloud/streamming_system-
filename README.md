@@ -81,8 +81,9 @@ Voce configura assim olhe essas imagens.
 ## DICA PARA QUEM DESEJA TESTAR
 Vocês podem usar o ngrok e tipo um upnp que nao precisa abrir portas
 passa direto....
+Essa primeira tela e um servidor node. um exemplo sendo redirecionado para outra porta e sendo acesso pela web
 [ngrok](https://medium.com/desenvolvendo-com-paixao/ngrok-do-localhost-para-o-mundo-5445ad08419)
 ![Sistema_Tela ngrok](docs/ngrok_node.webp)
 ![Sistema_Tela ngrok](docs/ngrok_redirecionado.webp)
-![Sistema_Tela ngrok](docs/ngrok.gift)
+![Sistema_Tela ngrok](docs/ngrok2.gift)
 
