@@ -77,3 +77,8 @@ Voce configura assim olhe essas imagens.
 ![Sistema_Tela](docs/a2.png)
 ![Sistema_Tela](docs/a3.png)
 ![Sistema_Tela](docs/a4.png)
+
+## DICA PARA QUEM DESEJA TESTAR
+Vocês podem usar o ngrok e tipo um upnp que nao precisa abrir portas
+passa direto....
+[ngrok](https://medium.com/desenvolvendo-com-paixao/ngrok-do-localhost-para-o-mundo-5445ad08419)
