@@ -82,3 +82,7 @@ Voce configura assim olhe essas imagens.
 Vocês podem usar o ngrok e tipo um upnp que nao precisa abrir portas
 passa direto....
 [ngrok](https://medium.com/desenvolvendo-com-paixao/ngrok-do-localhost-para-o-mundo-5445ad08419)
+![Sistema_Tela ngrok](docs/ngrok_node.webp)
+![Sistema_Tela ngrok](docs/ngrok_redirecionado.webp)
+![Sistema_Tela ngrok](docs/ngrok.gift)
+
